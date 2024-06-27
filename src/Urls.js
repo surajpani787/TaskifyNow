@@ -1,0 +1,1 @@
+export const baseUrl = "https://task-backend-1gfa.onrender.com"
